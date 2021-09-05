@@ -1,1 +1,3 @@
 COld and dry, but everything is my favourite colour
+
+Just adding more info to this note so that I can re-commit a new version to Git.
