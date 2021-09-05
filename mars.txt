@@ -3,3 +3,5 @@ COld and dry, but everything is my favourite colour
 Just adding more info to this note so that I can re-commit a new version to Git.
 
 The mummy will appreciate the lack of humidity.
+
+Let's go check out Venus. Why not?
